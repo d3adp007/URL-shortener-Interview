@@ -1,2 +1,2 @@
 # URL-shortener-Interview
- URL - https://dashboard.heroku.com/apps/afternoon-oasis-96873
+ URL - https://afternoon-oasis-96873.herokuapp.com/
